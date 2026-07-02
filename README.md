@@ -45,4 +45,4 @@ This project aims to improve railway traffic management using Artificial Intelli
 - Smart railway management
 
 ## Conclusion
-AI-powered train traffic control can improve railway efficiency by reducing delays, increasing throughput, and providing safer train operations.
+AI-powered train traffic control can improve railway efficiency by reducing delays, increasing throughput, and providing safer train operations
