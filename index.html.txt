@@ -1,0 +1,75 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Train Traffic Control</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>🚆 AI Train Traffic Control</h1>
+    <p>Maximizing Section Throughput Using AI Powered Precise Train Traffic Control</p>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="monitor.html">Monitor</a>
+        <a href="control.html">AI Control</a>
+        <a href="dashboard.html">Dashboard</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+
+<h2>Welcome to AI Railway Management System</h2>
+
+<p>
+Artificial Intelligence helps monitor train movement,
+predict delays, avoid collisions, and improve railway safety.
+</p>
+
+<button onclick="showMessage()">
+Start AI Monitoring
+</button>
+
+<p id="demo"></p>
+
+</section>
+
+<section class="cards">
+
+<div class="card">
+<h3>🚆 Live Monitoring</h3>
+<p>Track train movement in real time.</p>
+</div>
+
+<div class="card">
+<h3>🤖 AI Prediction</h3>
+<p>Predict congestion and delays automatically.</p>
+</div>
+
+<div class="card">
+<h3>🚦 Smart Signals</h3>
+<p>AI controls railway signals safely.</p>
+</div>
+
+<div class="card">
+<h3>📊 Dashboard</h3>
+<p>View train statistics and performance.</p>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 AI Train Traffic Control Project</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html> 

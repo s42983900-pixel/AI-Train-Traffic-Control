@@ -1,0 +1,36 @@
+about.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - AI Train Traffic Control</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>About the Project</h1>
+</header>
+
+<main>
+    <h2>AI Train Traffic Control</h2>
+
+    <p>
+        This project uses Artificial Intelligence to monitor train movement,
+        reduce delays, prevent collisions, and improve railway safety.
+    </p>
+
+    <h3>Objectives</h3>
+
+    <ul>
+        <li>Improve train safety</li>
+        <li>Reduce traffic congestion</li>
+        <li>Predict train delays</li>
+        <li>Increase section throughput</li>
+    </ul>
+
+    <a href="index.html">⬅ Back to Home</a>
+
+</main>
+
+</body>
+</html> 
